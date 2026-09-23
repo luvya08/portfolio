@@ -39,22 +39,22 @@ export const theme = {
    ========================================================================== */
 
 export const profile = {
-  name: "Aarav Mehta",
-  shortName: "Aarav", // used in the menu and the footer
+  name: "Luvya Goyal",
+  shortName: "Luvya", // used in the menu and the footer
 
   // The one-line description under your name.
-  role: "Computer Science Undergraduate",
+  role: "AI Undergraduate",
 
   // Two or three lines about what you do. Keep it human.
   tagline:
     "I like building small, useful things for the web — and I am usually the person in the team who volunteers to fix the messy part.",
 
   // Your college details.
-  course: "B.Tech, Computer Science & Engineering",
-  college: "Sunrise Institute of Technology",
-  campus: "Chennai Campus",
-  batch: "2023 — 2027",
-  location: "Chennai, India",
+  course: "B.Tech, AI",
+  college: "MPSTME",
+  campus: "Mumbai campus",
+  batch: "2026 — 2030",
+  location: "Mumbai, India",
 
   // The small green pill at the top. Set to "" to hide it.
   status: "Open to internships",
@@ -62,7 +62,7 @@ export const profile = {
   // YOUR PHOTO (optional).
   // Put your picture inside the "public" folder, then write "/my-photo.jpg"
   // Leave it as "" and a nice card with your initials is shown instead.
-  photo: "https://thumbs.dreamstime.com/b/teenager-suit-tie-19164381.jpg",
+  photo: "",
 
   // YOUR RESUME (optional).
   // Put your PDF inside the "public" folder, then write "/resume.pdf"
@@ -77,18 +77,18 @@ export const profile = {
 
 export const about = {
   paragraphs: [
-    "I am a second year CSE student who got into programming through a very ugly website I built for my school fest — it worked, people used it, and that was enough to get me hooked.",
+    "I am a first year AI student who got into programming through a very ugly website I built for my school fest — it worked, people used it, and that was enough to get me hooked.",
     "Since then I have spent most of my free time building side projects, breaking them, and slowly learning how real software is put together. I care a lot about things that are simple to use and honest about what they do.",
     "Outside of code I run logistics for our tech fest, play badminton badly but enthusiastically, and read more non-fiction than I can finish.",
   ],
 
   // Small facts shown in a card. Add or remove lines freely.
   facts: [
-    { label: "Course", value: "B.Tech CSE" },
-    { label: "Year", value: "2nd Year" },
-    { label: "Campus", value: "Chennai" },
+    { label: "Course", value: "B.Tech AI" },
+    { label: "Year", value: "1st Year" },
+    { label: "Campus", value: "Mumbai" },
     { label: "Focus", value: "Web & Backend" },
-    { label: "Languages", value: "English, Hindi, Tamil" },
+    { label: "Languages", value: "English, Hindi, German" },
   ],
 };
 
@@ -128,10 +128,10 @@ export const qualities = [
 
 export const experience = [
   {
-    role: "Logistics Head",
-    org: "Technovate — Annual Tech Fest",
-    department: "Organising Committee",
-    period: "2025 — Present",
+    role: "Executive",
+    org: "MUNSOC MPSTME",
+    department: "PR",
+    period: "2026 — Present",
     current: true,
     points: [
       "Lead a team of 12 volunteers across three days and nine events.",
@@ -261,18 +261,18 @@ export const skills = [
    ========================================================================== */
 
 export const contact = {
-  email: "aarav.mehta@example.com",
+  email: "luvyagoyal2008.com",
 
   // The short message above your email in the last section.
   note: "I read everything. If you have an internship, a project idea, or just want to talk about something you are building — say hello.",
 };
 
 export const socials = [
-  { label: "GitHub", handle: "@aaravmehta", url: "https://github.com/" },
-  { label: "LinkedIn", handle: "in/aaravmehta", url: "https://linkedin.com/" },
+  { label: "GitHub", handle: "@luvya08", url: "https://github.com/" },
+  { label: "LinkedIn", handle: "www.linkedin.com/in/luvyagoyal", url: "https://linkedin.com/" },
   {
     label: "Instagram",
-    handle: "@aarav.builds",
+    handle: "@luvya_08",
     url: "https://instagram.com/",
   },
   { label: "LeetCode", handle: "@aaravm", url: "https://leetcode.com/" },
